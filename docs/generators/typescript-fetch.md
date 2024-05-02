@@ -233,8 +233,8 @@ These options may be applied as additional-properties (cli) or configOptions (pl
 | Name | Supported | Defined By |
 | ---- | --------- | ---------- |
 |Readme|✓|ToolingExtension
-|Model|✓|ToolingExtension
-|Api|✓|ToolingExtension
+|Model|✗|
+|Api|✗|
 
 ### Global Feature
 | Name | Supported | Defined By |
